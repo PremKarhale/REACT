@@ -56,7 +56,7 @@ function App() {
         <div className='flex  align-middle bg-amber-100 rounded-xl gap-x-1'>
           <label className='px-3'>length :{length} </label>
           <input type="range" name="length" value={length}
-            min={6}
+            min={5}
             max={100}
             className='bg-black length'
 
