@@ -10,7 +10,7 @@ function App() {
     name : 'chai aur code',
     teacher : 'sir' 
   }
-  console.log(myobj)
+ 
 
   let newarr =[2,4,5,5]
 
